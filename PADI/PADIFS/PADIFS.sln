@@ -1,0 +1,71 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuppetMaster", "PuppetMaster\PuppetMaster.csproj", "{0FBD3838-E0E7-4FF9-9770-F44881032A15}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C0395B92-F3A1-4073-AA97-01533BD3E82D} = {C0395B92-F3A1-4073-AA97-01533BD3E82D}
+		{958F98A7-3E24-4BED-8AA9-D429FF68C638} = {958F98A7-3E24-4BED-8AA9-D429FF68C638}
+		{2A074ED4-BD1D-4591-A532-05316B259837} = {2A074ED4-BD1D-4591-A532-05316B259837}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{C0395B92-F3A1-4073-AA97-01533BD3E82D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metadata", "Metadata\Metadata.csproj", "{958F98A7-3E24-4BED-8AA9-D429FF68C638}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataServer", "DataServer\DataServer.csproj", "{2A074ED4-BD1D-4591-A532-05316B259837}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedLib", "SharedLib\SharedLib.csproj", "{2A303663-CD6E-47DE-BD11-6041E7D81BF3}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://padi13.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Client\\Client.csproj
+		SccProjectName1 = Client
+		SccLocalPath1 = Client
+		SccProjectUniqueName2 = DataServer\\DataServer.csproj
+		SccProjectName2 = DataServer
+		SccLocalPath2 = DataServer
+		SccProjectUniqueName3 = Metadata\\Metadata.csproj
+		SccProjectName3 = Metadata
+		SccLocalPath3 = Metadata
+		SccProjectUniqueName4 = PuppetMaster\\PuppetMaster.csproj
+		SccProjectName4 = PuppetMaster
+		SccLocalPath4 = PuppetMaster
+		SccProjectUniqueName5 = SharedLib\\SharedLib.csproj
+		SccProjectName5 = SharedLib
+		SccLocalPath5 = SharedLib
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Description = PADI FileSystem
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FBD3838-E0E7-4FF9-9770-F44881032A15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FBD3838-E0E7-4FF9-9770-F44881032A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FBD3838-E0E7-4FF9-9770-F44881032A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FBD3838-E0E7-4FF9-9770-F44881032A15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0395B92-F3A1-4073-AA97-01533BD3E82D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0395B92-F3A1-4073-AA97-01533BD3E82D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0395B92-F3A1-4073-AA97-01533BD3E82D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0395B92-F3A1-4073-AA97-01533BD3E82D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{958F98A7-3E24-4BED-8AA9-D429FF68C638}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{958F98A7-3E24-4BED-8AA9-D429FF68C638}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{958F98A7-3E24-4BED-8AA9-D429FF68C638}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{958F98A7-3E24-4BED-8AA9-D429FF68C638}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A074ED4-BD1D-4591-A532-05316B259837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A074ED4-BD1D-4591-A532-05316B259837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A074ED4-BD1D-4591-A532-05316B259837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A074ED4-BD1D-4591-A532-05316B259837}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A303663-CD6E-47DE-BD11-6041E7D81BF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A303663-CD6E-47DE-BD11-6041E7D81BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A303663-CD6E-47DE-BD11-6041E7D81BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A303663-CD6E-47DE-BD11-6041E7D81BF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

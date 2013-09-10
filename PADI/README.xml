@@ -1,0 +1,10 @@
+Projecto grupo 10.
+Os dados de storage sao guardados em c:/padifs
+Para correr o sistema:
+
+Client/bin/
+DataServer/
+Metadata/
+pupperMaster/
+
+Com os executáveis no devido debug
