@@ -1,6 +1,6 @@
-Google File System similar, C# Implementation,Technical University of Lisbon Course
+Google File System similar, C#
 ------------------------------------------------------------------------------------------
-Final release of Middleware for Distributed Internet Applications courses' project at IST (2012/2013)
+Final release of Middleware for Distributed Internet Applications courses' project at Technical University of Lisbon Course (2012/2013)
 
 Authors:
 
