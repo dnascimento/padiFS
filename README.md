@@ -32,8 +32,8 @@ Authors:
 
 ###Final notes:
 
-Project done in roughly 3 months
-Final grade: **18/20**
+- Project done in roughly 3 months
+- Final grade: **18/20**
 
 
 
