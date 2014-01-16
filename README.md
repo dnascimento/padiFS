@@ -4,13 +4,10 @@ Final release of Middleware for Distributed Internet Applications courses' proje
 
 Authors:
 
-Artur Balanuta (@AliensGoo)
-Dário Nascimento ( @dnascimento )
-Gonçalo Carito
+Artur Balanuta (@AliensGoo)\\
+Dário Nascimento ( @dnascimento )\\
+Gonçalo Carito\\
 
-Used Technologies:
-C#
-Scrum
 
 
 Main goals:
